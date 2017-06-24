@@ -1,0 +1,21 @@
+Div.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+body {
+  background-color: #002b36;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+h1 {
+  /*color: #a88204;*/
+  color: white;
+
+}
+h2 {
+  /*color: #a88204;*/
+  color: white;
+}
+p {
+  color: #647a7f;
+}
