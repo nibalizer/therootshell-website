@@ -19,3 +19,23 @@ h2 {
 p {
   color: #647a7f;
 }
+
+/* unvisited link */
+a:link {
+  color: #647a7f;
+}
+
+/* visited link */
+a:visited {
+  color: #647a7f;
+}
+
+/* mouse over link */
+a:hover {
+  color: #647a7f;
+}
+
+/* selected link */
+a:active {
+  color: #647a7f;
+}
